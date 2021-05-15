@@ -1,4 +1,4 @@
-package com.androiddevs.shoppinglisttestingyt
+package com.franckcarin.shoppingapp
 
 import org.junit.Test
 

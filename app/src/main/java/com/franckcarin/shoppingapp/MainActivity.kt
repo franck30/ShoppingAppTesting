@@ -1,4 +1,4 @@
-package com.androiddevs.shoppinglisttestingyt
+package com.franckcarin.shoppingapp
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
